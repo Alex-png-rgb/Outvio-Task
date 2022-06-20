@@ -1,6 +1,7 @@
 # Outvio-Task
 
 In this repository there are 3 files:
+- README document
 - MS Word containing the task
 - Power BI answering question 1
 - Excel answering question 2
