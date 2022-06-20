@@ -1,10 +1,10 @@
 # Outvio-Task
 
-In this repository there are 3 files:
+In this repository there are 4 files:
 - README document
-- MS Word containing the task
-- Power BI answering question 1
-- Excel answering question 2
+- 'Data Analyst Task' - MS Word containing the task
+- 'Part 1. Outvio - dashboard' - Power BI answering question 1
+- 'Part 2. Proposed pricing model' - Excel answering question 2
 
 ## Part 1
 
